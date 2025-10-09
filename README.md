@@ -19,7 +19,7 @@ This repository serves as:
 
 | Area                 | Focus Topics |
 |----------------------|--------------|
-| **Java**             | OOPs, Classes & Objects, File Handling, DSA |
+| **Java**             | OOPs, Classes & Objects, DSA |
 | **C++**              | Data Structures, Algorithms (Arrays, Linked Lists, Trees, Sorting, Graphs) |
 | **Python**           | Fundamentals, Functions, Loops, Data Analysis (Pandas, Matplotlib) |
 | **Mathematics & DBMS** | Notes, Queries, Practice Problems |
