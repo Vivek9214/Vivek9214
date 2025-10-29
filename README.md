@@ -20,7 +20,7 @@ This repository serves as:
 | Area                 | Focus Topics |
 |----------------------|--------------|
 | **Java**             | OOPs, Classes & Objects, DSA |
-| **C++**              | Data Structures, Algorithms (Arrays, Linked Lists, Trees, Sorting, Graphs) |
+| **C++**              | College Program ( Basic Functions ) |
 | **Python**           | Fundamentals, Functions, Loops, Data Analysis (Pandas, Matplotlib) |
 | **Mathematics & DBMS** | Notes, Queries, Practice Problems |
 | **Tools**            | Git, GitHub, VS Code, MySQL (basic), Jupyter Notebook |
