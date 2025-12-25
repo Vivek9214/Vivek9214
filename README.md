@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about building robust, scalable bac
 
 ## 📂 Featured Projects
 
-### [MyMath](https://github.com/Vivek9214/Java-practice/Project/MyMath)
+### [MyMath](https://github.com/Vivek9214/Java-practice/blob/main/Project%20/%20CustomMathsFunc.java)
 A comprehensive mathematical computation library designed to simplify complex mathematical operations. This project demonstrates strong fundamentals in algorithm design and implementation.
 
 **Tech Stack**: Java, Data Structures, Algorithms
