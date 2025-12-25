@@ -38,7 +38,7 @@ A comprehensive mathematical computation library designed to simplify complex ma
 
 **Tech Stack**: Java, Data Structures, Algorithms
 
-### [StuManagSys](https://github.com/Vivek9214/Java-practice/Project/StuManagSys.java)
+### [StuManagSys](https://github.com/Vivek9214/Java-practice/blob/main/Project%20/StuManagSys.java)
 A complete Student Management System showcasing full-stack development capabilities. The system efficiently manages student records, courses, and academic information with a clean and intuitive interface.
 
 **Tech Stack**: Java, Backend Development, Database Management
