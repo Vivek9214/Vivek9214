@@ -33,12 +33,12 @@ Welcome to my GitHub profile! I'm passionate about building robust, scalable bac
 
 ## 📂 Featured Projects
 
-### [MyMath](https://github.com/Vivek9214/Java-practice/blob/main/Project%20/%20CustomMathsFunc.java)
+### [MyMath](https://github.com/Vivek9214/Java-practice/blob/main/Project/Myymath.java)
 A comprehensive mathematical computation library designed to simplify complex mathematical operations. This project demonstrates strong fundamentals in algorithm design and implementation.
 
 **Tech Stack**: Java, Data Structures, Algorithms
 
-### [StuManagSys](https://github.com/Vivek9214/Java-practice/blob/main/Project%20/StuManagSys.java)
+### [StuManagSys](https://github.com/Vivek9214/Java-practice/blob/main/Project/StudentManagementSys.java)
 A complete Student Management System showcasing full-stack development capabilities. The system efficiently manages student records, courses, and academic information with a clean and intuitive interface.
 
 **Tech Stack**: Java, Backend Development, Database Management
