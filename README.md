@@ -58,7 +58,7 @@ I'm always open to collaborations, discussions, and opportunities to grow as a d
 
 ## 📊 GitHub Statistics
 [![roadmap.sh](https://roadmap.sh/card/tall/65a8e9150c54812283fb400f?variant=dark&roadmaps=ai-engineer)](https://roadmap.sh)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek9214&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek9214&show_icons=true&theme=dark)]
 
 ---
 
