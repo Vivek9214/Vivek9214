@@ -53,6 +53,13 @@ Currently progressing step by step, with a clear goal of developing practical, r
 
 ---
 
+## 📊 GitHub Statistics
+![roadmap.sh](https://roadmap.sh/card/tall/65a8e9150c54812283fb400f?variant=dark&roadmaps=ai-engineer)
+
+[![GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📊 Goals
 
 * Strengthen problem-solving ability
@@ -64,8 +71,8 @@ Currently progressing step by step, with a clear goal of developing practical, r
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/vivek-gahlot92
+* LinkedIn: https://linkedin.com/in/Vivek9214
 
 ---
 
@@ -74,9 +81,7 @@ Currently progressing step by step, with a clear goal of developing practical, r
 > Consistency, discipline, and structured learning lead to long-term success.
 
 
-## 📊 GitHub Statistics
-![roadmap.sh](https://roadmap.sh/card/tall/65a8e9150c54812283fb400f?variant=dark&roadmaps=ai-engineer)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek9214&show_icons=true&theme=dark)
+
 
 
 
